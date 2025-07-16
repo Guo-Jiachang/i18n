@@ -28,6 +28,6 @@
   "legal": "法律",
   "server_statistics": "服务器统计",
   "total_across_all_servers": "统计所有服务器",
-  "users_count": "{count, plural, =0 {No users yet} =1 {user} other {users}}",
-  "pulls_count": "{count, plural, =0 {No pulls yet} =1 {pull} other {pulls}}"
+  "users_count": "{count, plural, =0 {暂无用户} =1 {位用户} other {位用户}}",
+  "pulls_count": "{count, plural, =0 {暂无访问} =1 {次访问} other {次访问}}"
 }
